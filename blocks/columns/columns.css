@@ -3,6 +3,11 @@
   flex-direction: column;
 }
 
+.columns h1 {
+    border-left: 3px solid #dc1928;
+    padding-left: 10px;
+}
+
 .columns > div > div:first-child {
   margin-top: -50px;
 }
