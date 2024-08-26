@@ -42,13 +42,11 @@
 }
 
 /* AusPost overrides */
-.ausposttable .columns-4-cols div[data-aue-filter="column"] {
-    border: black;
-    border-width: 1px;
-    border-style: solid;
+.ausposttable .columns-4-cols {
+    border-bottom: 1px solid black;
 }
 
-.ausposttable .columns-4-cols > div:firstChild {
+.ausposttable .columns-4-cols > div:first-child {
     background: #dc1928;
     color: #fff;
 }
