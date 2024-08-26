@@ -51,6 +51,11 @@
     color: #fff;
 }
 
+.ausposttable img {
+  height: 50px;
+  width: 50px;
+}
+
 @font-face {
   font-family: roboto-fallback;
   size-adjust: 100.06%;
