@@ -60,6 +60,10 @@
   width: 50px !important;
 }
 
+.ausposttable .columns > div > div:first-child {
+  margin-top: 0px !important;
+}
+
 @font-face {
   font-family: roboto-fallback;
   size-adjust: 100.06%;
