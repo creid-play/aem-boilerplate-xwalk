@@ -41,6 +41,18 @@
   --nav-height: 64px;
 }
 
+/* AusPost overrides */
+.ausposttable .columns-4-cols div[data-aue-filter="column"] {
+    border: black;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.ausposttable .columns-4-cols > div:firstChild {
+    background: #dc1928;
+    color: #fff;
+}
+
 @font-face {
   font-family: roboto-fallback;
   size-adjust: 100.06%;
