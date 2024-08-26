@@ -46,6 +46,10 @@
     border-bottom: 1px solid black;
 }
 
+.ausposttable .columns-4-cols > div {
+    padding-left: 30px;
+}
+
 .ausposttable .columns-4-cols > div:first-child {
     background: #dc1928;
     color: #fff;
