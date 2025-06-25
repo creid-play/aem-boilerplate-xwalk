@@ -15,7 +15,7 @@
   }
   
   .cards > ul > li {
-    border: 1px solid var(--highlight-background-color);
+    /* border: 1px solid var(--highlight-background-color); */
     background-color: var(--background-color)
   }
   
@@ -35,6 +35,6 @@
     /*width: 100%;*/
     margin-top: 20px;
     object-fit: cover;
-    aspect-ratio: 1.5;
+    /* aspect-ratio: 1.5; */
   }
   
